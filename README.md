@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-# (Demo)[https://uzair004.github.io/react-tutorial/]
+# (https://uzair004.github.io/react-tutorial/)[Demo]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
